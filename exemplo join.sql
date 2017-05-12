@@ -4,7 +4,7 @@ values
 ('Rodrigo', '05865865421')
 
 
-select * from professor 2
+select * from professor 23
 
 insert into disciplina
 (nome,curso)
